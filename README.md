@@ -1,7 +1,7 @@
 Hi! My name is Prin Yimrungruang
 ========================================================================================================================================
 
-a student
+CE student
 ---------
 
 * ✉️  You can contact me at [gapth33@gmail.com](mailto:gapth33@gmail.com)
